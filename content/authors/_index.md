@@ -1,6 +1,16 @@
 ---
 cms_exclude: true
+title: Yushu Wang
 
-# To publish author profile pages, remove all of the `_build` and `cascade` settings below.
+Status:
+ - icon: 🍖
+
+organizations:
+ - name: Peking University
+   url: https://www.pku.edu.cn
+
+bio:
+
+
 
 ---
